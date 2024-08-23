@@ -31,10 +31,6 @@
     "watch": "amble ./scratch.js",
     "stress": "node scripts/stress.js"
   },
-  "files": [
-    "builds/",
-    "docs/"
-  ],
   "dependencies": {
     "compromise": "14.9.0",
     "efrt": "2.7.0",
